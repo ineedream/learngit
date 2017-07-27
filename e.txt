@@ -2,8 +2,5 @@ e
 ee
 eee
 eeee
-<<<<<<< HEAD
 eeeee
 eeeeee
-=======
->>>>>>> tmp
